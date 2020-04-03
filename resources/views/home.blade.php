@@ -7,7 +7,7 @@
             <div class="card">
                 <div class="card-header">Questionnaire</div>
                 <div class="card-body">
-                    <button class="btn btn-dark">New Questionnaire</button>
+                    <a href="/questionnaires/create" class="btn btn-dark">New Questionnaire</a>
                 </div>
             </div>
             <div class="card mt-4">
